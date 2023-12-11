@@ -9,6 +9,7 @@
     --bg_2: #000000;
     --txt_1: #ffffff;
     --txt_2: #333333;
+    --fmbrd: rgba(200, 200, 200, 0.5);
 }
 body{
     background-color: var(--bg_1);
